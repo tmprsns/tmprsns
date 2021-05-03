@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tmprsns
-- 👀 I’m an independent consulting in tech / startup strategy, and sometimes I code too!
-- 🌱 I’m currently learning ffmpeg scripting (video/image processing), processing, Kafka and AWS lambda
-- 💞️ I’m looking to collaborate on real-time data / human-in-the-loop art and space projects
+- 👀 I’m an independent consulting CTO and facilitator for design thinking / product / tech / startup strategy, and sometimes I code too!
+- 🐬 I’m currently learning ffmpeg scripting, processing, Kafka and AWS lambda
+- ▶︎ I’m looking to collaborate on real-time data / human-in-the-loop art and space projects
 - 📫 Connect via linkedin or twitter (@timparsons)
 
 <!---
